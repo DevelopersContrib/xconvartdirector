@@ -1,0 +1,22 @@
+var Configs = {
+  widget_id: 356,
+  domain: "mortgagechain",
+  domainid: 3443,
+  memberid: 7,
+  title: "Welcome to mortgagechain",
+  logo: "https://cdn.vnoc.com/logos/logo-MortgageChain-1.png",
+  description: "Our platform creates social utility tokens for your brand or domain and allows you to manage its social crypto economy.",
+  account_ga: "UA-41926954-46",
+  piwik_id: 3,
+  background_image: "https://cdn.vnoc.com/background/tech4.jpg",
+  top_description: "",
+  keywords: "mortgage, chain",
+  forsale: "",
+  forsaledefault: "",
+  forsaletext: "This domain belongs to the Global Ventures network. We have interesting opportunities for work, sponsors and partnerships.",
+  additional_html: "PGJyPiA8YSBocmVmPSJodHRwczovL2dvby5nbC9SNFU4c0giIHRhcmdldD0iX2JsYW5rIj48aW1nIHN0eWxlPSJib3JkZXI6MHB4O2hlaWdodDogNjVweCAhaW1wb3J0YW50O3dpZHRoOiA7d2lkdGg6IDIyNXB4ICFpbXBvcnRhbnQ7IiBzcmM9Imh0dHA6Ly9jZG4udm5vYy5jb20vYmFubmVyL2Jhbm5lci1jdGItZWFybi1jdGItdG9rZW5zLnBuZyIgYWx0PSJDcnlwdG8gQ29udHJpYiIgdGl0bGU9IkNyeXB0byBDb250cmliIj48L2E+PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iaHR0cDovL3Rvb2xzLmNvbnRyaWIuY29tL2Nzcy9qcXVlcnkuZ2x1ZS5jc3MiPjxzY3JpcHQgc3JjPSJodHRwOi8vdG9vbHMuY29udHJpYi5jb20vanMvanF1ZXJ5LmdsdWUubWluLmpzIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iaHR0cDovL3Rvb2xzLmNvbnRyaWIuY29tL2pzL2dsdWUuanMiPjwvc2NyaXB0PjxkaXYgaWQ9ImJlZm9yZXlvdWdvIiBzdHlsZT0iZGlzcGxheTpub25lOyIgY2xhc3M9ImdsdWVfcG9wdXAgZ2x1ZV9jb250YWluZXIiPjxkaXYgY2xhc3M9ImdsdWVfY2xvc2UiIG9uY2xpY2s9IiQuZ2x1ZV9jbG9zZSgpIj5YPC9kaXY+PGRpdiBjbGFzcz0iZ2x1ZV9jb250ZW50Ij48ZGl2IGNsYXNzPSJ3cmFwLWV4aXQtY29udGVudCB0ZXh0LWNlbnRlciI+PGltZyBjbGFzcz0ibG9nby1leGl0LWN0YiIgc3JjPSJodHRwczovL3MzLmFtYXpvbmF3cy5jb20vYXNzZXRzLnppcHNpdGUubmV0L2ltYWdlcy9qYXlzb24vaWNvbnMvY3VycmVuY3ktY3RiLTQucG5nIiBhbHQ9IiI+PGgxIGNsYXNzPSJiZy10dGxlLWV4aXQiPiBIZWxsbyE8L2gxPjxwPiBXZSBpbnZpdGUgeW91IHRvIG91ciBGaXJzdCBNb3ZlcnMgT3Bwb3J0dW5pdHkgd2l0aCBvdXIgPGJyPkNUQiBjcnlwdG8gdG9rZW4gc2FsZSBzdGFydGluZyA8YiBjbGFzcz0idGV4dC1kYW5nZXIiPk9jdG9iZXIgMTIsIDIwMTc8L2I+Ljxicj5BbWF6aW5nIE9wcG9ydHVuaXRpZXMgd2l0aCB3b3JsZCBsZWFkaW5nIGRpZ2l0YWwgYXNzZXRzIGxpa2UgU3RyZWFtaW5nLmNvbSwgQXBwbGljYXRpb25zLmNvbSBhbmQgb3RoZXJzLiBMZWFybiBtb3JlIGFuZCBnZXQgdXBkYXRlcy48YnI+PC9wPjxwPiA8YSBocmVmPSJodHRwczovL2dvby5nbC9tRXYxM3YiIGNsYXNzPSJidG4gYnRuLWxnIGJ0bi13YXJuaW5nIiB0YXJnZXQ9Il9ibGFuayI+IDxpIGNsYXNzPSJmYSBmYS1jaGVjayI+PC9pPiBHZXQgU3RhcnRlZDwvYT48L3A+PHA+IDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgb25jbGljaz0iJC5nbHVlX2Nsb3NlKCkiIGNsYXNzPSJoZWxwLWJsb2NrIj4gPHNtYWxsPk5vLCB0aGFua3MgSSBhbSBub3QgaW50ZXJlc3RlZCB0byBiZSBwYXJ0IG93bmVyLjwvc21hbGw+PC9hPjwvcD48L2Rpdj48L2Rpdj48L2Rpdj4=",
+  footer_html: "",
+  footer_banner: "",
+  domain_affiliate_link: "https://referrals.contrib.com/idevaffiliate.php?id=15959&url=https://www.contrib.com/signup/firststep?domain=javapoint.com",
+  
+}
